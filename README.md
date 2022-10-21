@@ -1,1 +1,1 @@
-# Rails-blog-project
+# sigma_blog RoR project
